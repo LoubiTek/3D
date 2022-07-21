@@ -1,0 +1,30 @@
+# Exported from Wings 3D 1.5.3
+newmtl Cube_Cube.001_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Feuilles.bmp
+
+newmtl Cylinder_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Tronc.bmp
+
+newmtl None
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.0 0.0 0.0
+Ks 0.8 0.8 0.8
+Ke 0.0 0.0 0.0
+
